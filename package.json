@@ -1,0 +1,22 @@
+{
+  "name": "clone-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "dict": "^1.4.0",
+    "express": "^3.5.1",
+    "node-logentries": "^0.1.4",
+    "nodegit": "^0.13.2",
+    "noot": "^0.6.21",
+    "request": "^2.72.0",
+    "tmp": "0.0.28"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
